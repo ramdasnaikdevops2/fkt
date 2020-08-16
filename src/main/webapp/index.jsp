@@ -1,8 +1,7 @@
 <html>
 <body>
-  <h1> Mr.Ramadas Naik </h1>
-<h2> I LOVE YOU RAVALI </h2>
-<h3> My love for you is a journey, starting at forever and ending at never.
+  <h1> Mr.Ramadas Naik 
+  <p1>My love for you is a journey, starting at forever and ending at never.
 - Ravali
 
 I have found the one whom my soul loves.
@@ -19,7 +18,9 @@ A kiss to build a dream on
 
 All you need is love.
 
-Two become one
-  </h3>
+    Two become one </p1> 
+    </h1>
+<h2> I LOVE YOU RAVALI </h2>
+
   </body>
 </html>
