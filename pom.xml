@@ -80,7 +80,7 @@
   </dependencies>
 
 	<distributionManagement>
-	   <!-- <repository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>flipkart Releases Nexus Repository</name>
 	      <url>http://15.207.14.22:8081/repository/flipkart-release/</url>
@@ -90,7 +90,7 @@
 	      <name>flipkart Snapshot Nexus Repository </name>
 	      <url>http://15.207.14.22:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
-	-->
+	
 	</distributionManagement>
 	
 	
