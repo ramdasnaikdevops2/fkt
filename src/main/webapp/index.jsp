@@ -8,7 +8,7 @@ I have found the one whom my soul loves.
 - Song of Solomon 
 
 True love is the joy of life.
-- Ravali
+- ASWANI
 
 A celebration of love and friendship
 
@@ -20,7 +20,7 @@ All you need is love.
 
     Two become one  
     </h1>
-<h2> I LOVE YOU RAVALI </h2>
+<h2> I LOVE YOU ASWANI </h2>
 
   </body>
 </html>
