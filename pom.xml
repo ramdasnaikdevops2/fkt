@@ -19,8 +19,9 @@
 	    <spring.version>4.1.4.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-	 	<sonar.host.url>http://15.207.55.113:9000/</sonar.host.url>
-	  <sonar.login>78a038ec4294de7424b8f3892fbf611753295d0d</sonar.login>
+	 <!--	 <sonar.host.url>http://15.207.55.113:9000/</sonar.host.url>
+		 <sonar.login>78a038ec4294de7424b8f3892fbf611753295d0d</sonar.login>
+	-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -80,7 +81,7 @@
 		</dependency>
   </dependencies>
 
-	<distributionManagement>
+	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>flipkart Releases Nexus Repository</name>
@@ -93,7 +94,7 @@
 	    </snapshotRepository>
 	
 	</distributionManagement>
-	
+	-->
 	
   <build>
     <plugins>
